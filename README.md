@@ -1,1 +1,1 @@
-# WebTest01
+Spring Web App using Maven
